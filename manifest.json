@@ -1,6 +1,6 @@
 {
-    "name": "player",
-    "short_name": "player",
+    "name": "ToDo",
+    "short_name": "ToDo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
